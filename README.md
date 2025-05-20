@@ -60,4 +60,4 @@ You can use tools like [Postman](https://www.postman.com/) or [Hoppscotch](https
 
 ## 📄 License
 
-This project is open-source and free to use.
+This project is a mock api for mocking api integration in GetGo FMS.
