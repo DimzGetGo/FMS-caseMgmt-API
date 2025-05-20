@@ -1,14 +1,14 @@
 {
   "reviews": [
     {
-      "id": 201,
+      "id": 1,
       "vehicleId": 201,
       "plateNo": "SGX001A",
-      "ddReviewId": 501,
+      "ddReviewId": 301,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 601,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 401,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 420,
         "bookingNo": "BK202501020",
@@ -34,10 +34,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501020-XYZ",
-        "vehicleId": 201,
-        "plateNo": "SGX001A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 419,
@@ -65,9 +62,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501019-XYZ",
-        "vehicleId": 201,
-        "plateNo": "SGX001A"
+        "caseNo": "CASE-202501019-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -76,14 +71,14 @@
       "status": 1
     },
     {
-      "id": 202,
+      "id": 2,
       "vehicleId": 202,
       "plateNo": "SGX002A",
-      "ddReviewId": 502,
+      "ddReviewId": 302,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 602,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 402,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 440,
         "bookingNo": "BK202501040",
@@ -109,10 +104,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501040-XYZ",
-        "vehicleId": 202,
-        "plateNo": "SGX002A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 439,
@@ -140,9 +132,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501039-XYZ",
-        "vehicleId": 202,
-        "plateNo": "SGX002A"
+        "caseNo": "CASE-202501039-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -151,14 +141,14 @@
       "status": 1
     },
     {
-      "id": 203,
+      "id": 3,
       "vehicleId": 203,
       "plateNo": "SGX003A",
-      "ddReviewId": 503,
+      "ddReviewId": 303,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 603,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 403,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 460,
         "bookingNo": "BK202501060",
@@ -184,10 +174,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501060-XYZ",
-        "vehicleId": 203,
-        "plateNo": "SGX003A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 459,
@@ -215,9 +202,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501059-XYZ",
-        "vehicleId": 203,
-        "plateNo": "SGX003A"
+        "caseNo": "CASE-202501059-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -226,14 +211,14 @@
       "status": 1
     },
     {
-      "id": 204,
+      "id": 4,
       "vehicleId": 204,
       "plateNo": "SGX004A",
-      "ddReviewId": 504,
+      "ddReviewId": 304,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 604,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 404,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 480,
         "bookingNo": "BK202501080",
@@ -259,10 +244,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501080-XYZ",
-        "vehicleId": 204,
-        "plateNo": "SGX004A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 479,
@@ -290,9 +272,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501079-XYZ",
-        "vehicleId": 204,
-        "plateNo": "SGX004A"
+        "caseNo": "CASE-202501079-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -301,14 +281,14 @@
       "status": 1
     },
     {
-      "id": 205,
+      "id": 5,
       "vehicleId": 205,
       "plateNo": "SGX005A",
-      "ddReviewId": 505,
+      "ddReviewId": 305,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 605,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 405,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 500,
         "bookingNo": "BK202501100",
@@ -334,10 +314,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501100-XYZ",
-        "vehicleId": 205,
-        "plateNo": "SGX005A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 499,
@@ -365,9 +342,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501099-XYZ",
-        "vehicleId": 205,
-        "plateNo": "SGX005A"
+        "caseNo": "CASE-202501099-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -376,14 +351,14 @@
       "status": 1
     },
     {
-      "id": 206,
+      "id": 6,
       "vehicleId": 206,
       "plateNo": "SGX006A",
-      "ddReviewId": 506,
+      "ddReviewId": 306,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 606,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 406,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 520,
         "bookingNo": "BK202501120",
@@ -409,10 +384,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501120-XYZ",
-        "vehicleId": 206,
-        "plateNo": "SGX006A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 519,
@@ -440,9 +412,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501119-XYZ",
-        "vehicleId": 206,
-        "plateNo": "SGX006A"
+        "caseNo": "CASE-202501119-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -451,14 +421,14 @@
       "status": 1
     },
     {
-      "id": 207,
+      "id": 7,
       "vehicleId": 207,
       "plateNo": "SGX007A",
-      "ddReviewId": 507,
+      "ddReviewId": 307,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 607,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 407,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 540,
         "bookingNo": "BK202501140",
@@ -484,10 +454,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501140-XYZ",
-        "vehicleId": 207,
-        "plateNo": "SGX007A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 539,
@@ -515,9 +482,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501139-XYZ",
-        "vehicleId": 207,
-        "plateNo": "SGX007A"
+        "caseNo": "CASE-202501139-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -526,14 +491,14 @@
       "status": 1
     },
     {
-      "id": 208,
+      "id": 8,
       "vehicleId": 208,
       "plateNo": "SGX008A",
-      "ddReviewId": 508,
+      "ddReviewId": 308,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 608,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 408,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 560,
         "bookingNo": "BK202501160",
@@ -559,10 +524,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501160-XYZ",
-        "vehicleId": 208,
-        "plateNo": "SGX008A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 559,
@@ -590,9 +552,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501159-XYZ",
-        "vehicleId": 208,
-        "plateNo": "SGX008A"
+        "caseNo": "CASE-202501159-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -601,14 +561,14 @@
       "status": 1
     },
     {
-      "id": 209,
+      "id": 9,
       "vehicleId": 209,
       "plateNo": "SGX009A",
-      "ddReviewId": 509,
+      "ddReviewId": 309,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 609,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 409,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 580,
         "bookingNo": "BK202501180",
@@ -634,10 +594,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501180-XYZ",
-        "vehicleId": 209,
-        "plateNo": "SGX009A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 579,
@@ -665,9 +622,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501179-XYZ",
-        "vehicleId": 209,
-        "plateNo": "SGX009A"
+        "caseNo": "CASE-202501179-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -676,14 +631,14 @@
       "status": 1
     },
     {
-      "id": 210,
+      "id": 10,
       "vehicleId": 210,
       "plateNo": "SGX010A",
-      "ddReviewId": 510,
+      "ddReviewId": 310,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 610,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "assetOwnerId": 410,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
       "lastReviewed": {
         "bookingId": 600,
         "bookingNo": "BK202501200",
@@ -709,10 +664,7 @@
             "imgSide": "leftSide",
             "damageAttribute": "none"
           }
-        ],
-        "caseNo": "CASE-202501200-XYZ",
-        "vehicleId": 210,
-        "plateNo": "SGX010A"
+        ]
       },
       "beforeLastReviewed": {
         "bookingId": 599,
@@ -740,9 +692,7 @@
             "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501199-XYZ",
-        "vehicleId": 210,
-        "plateNo": "SGX010A"
+        "caseNo": "CASE-202501199-XYZ"
       },
       "vehicleInfo": {
         "make": "Toyota",

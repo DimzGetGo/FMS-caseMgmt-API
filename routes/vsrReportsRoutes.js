@@ -24,7 +24,14 @@ module.exports = [
       const sorted = reports.sort((a, b) => {
         const aVal = a[sortCol];
         const bVal = b[sortCol];
-        return sortDir === "DESC" ? bVal - aVal : aVal - bVal;
+
+        if (typeof aVal === "number" && typeof bVal === "number") {
+          return sortDir === "DESC" ? bVal - aVal : aVal - bVal;
+        }
+
+        return sortDir === "DESC"
+          ? String(bVal).localeCompare(String(aVal))
+          : String(aVal).localeCompare(String(bVal));
       });
 
       const totalCount = sorted.length;
@@ -32,20 +39,25 @@ module.exports = [
       const start = (page - 1) * size;
       const pageItems = sorted.slice(start, start + size);
 
-      const dataList = pageItems.map((report, index) => ({
-        count: start + index + 1,
-        bookingId: report.bookingId,
-        bookingNo: report.bookingNo,
-        type: report.reportType,
-        caseNo: report.caseNo,
-        isLastReviewed: index === 0, // first one in the list marked as latest
-      }));
+      const dataList = pageItems.map((report, index) => {
+        const globalIndex = start + index;
+
+        return {
+          count:
+            sortDir === "DESC" ? totalCount - globalIndex : globalIndex + 1,
+          bookingId: report.bookingId,
+          bookingNo: report.bookingNo,
+          type: report.reportType,
+          caseNo: report.caseNo,
+          isLastReviewed: globalIndex === 0,
+        };
+      });
 
       return {
         data: {
           totalCount,
           totalPage,
-          pageNumber: page,
+          pageNumber: Number(page),
           pageSize: size,
           dataList,
         },
@@ -53,6 +65,26 @@ module.exports = [
         message: "Success",
         currentDateTime: new Date().toISOString(),
       };
+    },
+  },
+  {
+    method: "GET",
+    path: "/api/fmsTasking/v1/caseManagement/report/by-case-no/{caseNo}",
+    handler: (request, h) => {
+      const { caseNo } = request.params;
+
+      const report = vsrData.find((r) => r.caseNo === caseNo);
+
+      if (!report) {
+        return h.response({ code: 1, message: "Report not found" }).code(404);
+      }
+
+      return h.response({
+        data: report,
+        code: 0,
+        message: "Success",
+        currentDateTime: new Date().toISOString(),
+      });
     },
   },
 ];
