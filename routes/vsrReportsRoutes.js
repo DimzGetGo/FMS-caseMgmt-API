@@ -9,7 +9,7 @@ module.exports = [
         page,
         size,
         sortCol = "bookingId",
-        sortDir = "ASC",
+        sortDir = "DESC",
         vehicleId,
       } = request.query;
 
@@ -37,6 +37,7 @@ module.exports = [
         bookingId: report.bookingId,
         bookingNo: report.bookingNo,
         type: report.reportType,
+        caseNo: report.caseNo,
         isLastReviewed: index === 0, // first one in the list marked as latest
       }));
 

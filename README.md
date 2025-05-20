@@ -54,7 +54,7 @@ The API will be available at:
 You can use tools like [Postman](https://www.postman.com/) or [Hoppscotch](https://hoppscotch.io/) to test endpoints:
 
 - `GET /api/fmsTasking/v1/caseManagement/report/1`
-- `GET /api/fmsTasking/v1/caseManagement/vsrReports?page=1&limit=20`
+- `GET /api/fmsTasking/v1/caseManagement/vsrReports?page=1&size=20&vehicleId=1`
 
 ---
 

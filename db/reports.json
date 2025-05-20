@@ -1,1152 +1,43 @@
 {
   "reviews": [
     {
-      "id": 1,
+      "id": 201,
       "vehicleId": 201,
       "plateNo": "SGX001A",
-      "ddReviewId": 301,
+      "ddReviewId": 501,
       "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 401,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604937",
+      "assetOwnerId": 601,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
       "lastReviewed": {
-        "bookingId": 501,
-        "bookingNo": "BK202501001",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 401,
-        "bookingNo": "BK202501001",
+        "bookingId": 420,
+        "bookingNo": "BK202501020",
         "reportType": "Pick-up",
         "images": [
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
+            "imgSide": "Front",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
+            "imgSide": "Back",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501001-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 2,
-      "vehicleId": 202,
-      "plateNo": "SGX002A",
-      "ddReviewId": 302,
-      "ddReviewDate": "2025-05-18T11:50:03.604948",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 402,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604951",
-      "lastReviewed": {
-        "bookingId": 502,
-        "bookingNo": "BK202501002",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 402,
-        "bookingNo": "BK202501002",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501002-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 3,
-      "vehicleId": 203,
-      "plateNo": "SGX003A",
-      "ddReviewId": 303,
-      "ddReviewDate": "2025-05-18T11:50:03.604961",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 403,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604964",
-      "lastReviewed": {
-        "bookingId": 503,
-        "bookingNo": "BK202501003",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 403,
-        "bookingNo": "BK202501003",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501003-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 4,
-      "vehicleId": 204,
-      "plateNo": "SGX004A",
-      "ddReviewId": 304,
-      "ddReviewDate": "2025-05-18T11:50:03.604975",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 404,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604978",
-      "lastReviewed": {
-        "bookingId": 504,
-        "bookingNo": "BK202501004",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 404,
-        "bookingNo": "BK202501004",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501004-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 5,
-      "vehicleId": 205,
-      "plateNo": "SGX005A",
-      "ddReviewId": 305,
-      "ddReviewDate": "2025-05-18T11:50:03.604989",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 405,
-      "reportSubmittedAt": "2025-05-18T11:50:03.604993",
-      "lastReviewed": {
-        "bookingId": 505,
-        "bookingNo": "BK202501005",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 405,
-        "bookingNo": "BK202501005",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501005-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 6,
-      "vehicleId": 206,
-      "plateNo": "SGX006A",
-      "ddReviewId": 306,
-      "ddReviewDate": "2025-05-18T11:50:03.605005",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 406,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605008",
-      "lastReviewed": {
-        "bookingId": 506,
-        "bookingNo": "BK202501006",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 406,
-        "bookingNo": "BK202501006",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501006-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 7,
-      "vehicleId": 207,
-      "plateNo": "SGX007A",
-      "ddReviewId": 307,
-      "ddReviewDate": "2025-05-18T11:50:03.605018",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 407,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605022",
-      "lastReviewed": {
-        "bookingId": 507,
-        "bookingNo": "BK202501007",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 407,
-        "bookingNo": "BK202501007",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501007-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 8,
-      "vehicleId": 208,
-      "plateNo": "SGX008A",
-      "ddReviewId": 308,
-      "ddReviewDate": "2025-05-18T11:50:03.605037",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 408,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605041",
-      "lastReviewed": {
-        "bookingId": 508,
-        "bookingNo": "BK202501008",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 408,
-        "bookingNo": "BK202501008",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501008-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 9,
-      "vehicleId": 209,
-      "plateNo": "SGX009A",
-      "ddReviewId": 309,
-      "ddReviewDate": "2025-05-18T11:50:03.605052",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 409,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605056",
-      "lastReviewed": {
-        "bookingId": 509,
-        "bookingNo": "BK202501009",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 409,
-        "bookingNo": "BK202501009",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501009-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 10,
-      "vehicleId": 210,
-      "plateNo": "SGX010A",
-      "ddReviewId": 310,
-      "ddReviewDate": "2025-05-18T11:50:03.605067",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 410,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605070",
-      "lastReviewed": {
-        "bookingId": 510,
-        "bookingNo": "BK202501010",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 410,
-        "bookingNo": "BK202501010",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501010-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 11,
-      "vehicleId": 211,
-      "plateNo": "SGX011A",
-      "ddReviewId": 311,
-      "ddReviewDate": "2025-05-18T11:50:03.605080",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 411,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605084",
-      "lastReviewed": {
-        "bookingId": 511,
-        "bookingNo": "BK202501011",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 411,
-        "bookingNo": "BK202501011",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501011-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 12,
-      "vehicleId": 212,
-      "plateNo": "SGX012A",
-      "ddReviewId": 312,
-      "ddReviewDate": "2025-05-18T11:50:03.605095",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 412,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605098",
-      "lastReviewed": {
-        "bookingId": 512,
-        "bookingNo": "BK202501012",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 412,
-        "bookingNo": "BK202501012",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501012-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 13,
-      "vehicleId": 213,
-      "plateNo": "SGX013A",
-      "ddReviewId": 313,
-      "ddReviewDate": "2025-05-18T11:50:03.605107",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 413,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605110",
-      "lastReviewed": {
-        "bookingId": 513,
-        "bookingNo": "BK202501013",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 413,
-        "bookingNo": "BK202501013",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501013-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 14,
-      "vehicleId": 214,
-      "plateNo": "SGX014A",
-      "ddReviewId": 314,
-      "ddReviewDate": "2025-05-18T11:50:03.605122",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 414,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605126",
-      "lastReviewed": {
-        "bookingId": 514,
-        "bookingNo": "BK202501014",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 414,
-        "bookingNo": "BK202501014",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501014-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 15,
-      "vehicleId": 215,
-      "plateNo": "SGX015A",
-      "ddReviewId": 315,
-      "ddReviewDate": "2025-05-18T11:50:03.605135",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 415,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605138",
-      "lastReviewed": {
-        "bookingId": 515,
-        "bookingNo": "BK202501015",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 415,
-        "bookingNo": "BK202501015",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501015-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 16,
-      "vehicleId": 216,
-      "plateNo": "SGX016A",
-      "ddReviewId": 316,
-      "ddReviewDate": "2025-05-18T11:50:03.605147",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 416,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605151",
-      "lastReviewed": {
-        "bookingId": 516,
-        "bookingNo": "BK202501016",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 416,
-        "bookingNo": "BK202501016",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501016-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 17,
-      "vehicleId": 217,
-      "plateNo": "SGX017A",
-      "ddReviewId": 317,
-      "ddReviewDate": "2025-05-18T11:50:03.605162",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 417,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605166",
-      "lastReviewed": {
-        "bookingId": 517,
-        "bookingNo": "BK202501017",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 417,
-        "bookingNo": "BK202501017",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501017-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 18,
-      "vehicleId": 218,
-      "plateNo": "SGX018A",
-      "ddReviewId": 318,
-      "ddReviewDate": "2025-05-18T11:50:03.605176",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 418,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605179",
-      "lastReviewed": {
-        "bookingId": 518,
-        "bookingNo": "BK202501018",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 418,
-        "bookingNo": "BK202501018",
-        "reportType": "Pick-up",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ],
-        "caseNo": "CASE-202501018-XYZ"
-      },
-      "vehicleInfo": {
-        "make": "Toyota",
-        "model": "Corolla Altis"
-      },
-      "status": 1
-    },
-    {
-      "id": 19,
-      "vehicleId": 219,
-      "plateNo": "SGX019A",
-      "ddReviewId": 319,
-      "ddReviewDate": "2025-05-18T11:50:03.605188",
-      "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 419,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605192",
-      "lastReviewed": {
-        "bookingId": 519,
-        "bookingNo": "BK202501019",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
+        "caseNo": "CASE-202501020-XYZ",
+        "vehicleId": 201,
+        "plateNo": "SGX001A"
       },
       "beforeLastReviewed": {
         "bookingId": 419,
@@ -1155,22 +46,28 @@
         "images": [
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
+            "imgSide": "Front",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
+            "imgSide": "Back",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501019-XYZ"
+        "caseNo": "CASE-202501019-XYZ",
+        "vehicleId": 201,
+        "plateNo": "SGX001A"
       },
       "vehicleInfo": {
         "make": "Toyota",
@@ -1179,60 +76,673 @@
       "status": 1
     },
     {
-      "id": 20,
-      "vehicleId": 220,
-      "plateNo": "SGX020A",
-      "ddReviewId": 320,
-      "ddReviewDate": "2025-05-18T11:50:03.605203",
+      "id": 202,
+      "vehicleId": 202,
+      "plateNo": "SGX002A",
+      "ddReviewId": 502,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
       "ddReviewedBy": "Dimz Aristyo",
-      "assetOwnerId": 420,
-      "reportSubmittedAt": "2025-05-18T11:50:03.605206",
+      "assetOwnerId": 602,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
       "lastReviewed": {
-        "bookingId": 520,
-        "bookingNo": "BK202501020",
-        "reportType": "Drop-off",
-        "images": [
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
-          },
-          {
-            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
-          }
-        ]
-      },
-      "beforeLastReviewed": {
-        "bookingId": 420,
-        "bookingNo": "BK202501020",
+        "bookingId": 440,
+        "bookingNo": "BK202501040",
         "reportType": "Pick-up",
         "images": [
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
-            "imgSide": "Front"
+            "imgSide": "Front",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
-            "imgSide": "Back"
+            "imgSide": "Back",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
-            "imgSide": "rightSide"
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
           },
           {
             "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
-            "imgSide": "leftSide"
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
           }
         ],
-        "caseNo": "CASE-202501020-XYZ"
+        "caseNo": "CASE-202501040-XYZ",
+        "vehicleId": 202,
+        "plateNo": "SGX002A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 439,
+        "bookingNo": "BK202501039",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501039-XYZ",
+        "vehicleId": 202,
+        "plateNo": "SGX002A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 203,
+      "vehicleId": 203,
+      "plateNo": "SGX003A",
+      "ddReviewId": 503,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 603,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 460,
+        "bookingNo": "BK202501060",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501060-XYZ",
+        "vehicleId": 203,
+        "plateNo": "SGX003A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 459,
+        "bookingNo": "BK202501059",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501059-XYZ",
+        "vehicleId": 203,
+        "plateNo": "SGX003A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 204,
+      "vehicleId": 204,
+      "plateNo": "SGX004A",
+      "ddReviewId": 504,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 604,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 480,
+        "bookingNo": "BK202501080",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501080-XYZ",
+        "vehicleId": 204,
+        "plateNo": "SGX004A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 479,
+        "bookingNo": "BK202501079",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501079-XYZ",
+        "vehicleId": 204,
+        "plateNo": "SGX004A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 205,
+      "vehicleId": 205,
+      "plateNo": "SGX005A",
+      "ddReviewId": 505,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 605,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 500,
+        "bookingNo": "BK202501100",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501100-XYZ",
+        "vehicleId": 205,
+        "plateNo": "SGX005A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 499,
+        "bookingNo": "BK202501099",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501099-XYZ",
+        "vehicleId": 205,
+        "plateNo": "SGX005A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 206,
+      "vehicleId": 206,
+      "plateNo": "SGX006A",
+      "ddReviewId": 506,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 606,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 520,
+        "bookingNo": "BK202501120",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501120-XYZ",
+        "vehicleId": 206,
+        "plateNo": "SGX006A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 519,
+        "bookingNo": "BK202501119",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501119-XYZ",
+        "vehicleId": 206,
+        "plateNo": "SGX006A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 207,
+      "vehicleId": 207,
+      "plateNo": "SGX007A",
+      "ddReviewId": 507,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 607,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 540,
+        "bookingNo": "BK202501140",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501140-XYZ",
+        "vehicleId": 207,
+        "plateNo": "SGX007A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 539,
+        "bookingNo": "BK202501139",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501139-XYZ",
+        "vehicleId": 207,
+        "plateNo": "SGX007A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 208,
+      "vehicleId": 208,
+      "plateNo": "SGX008A",
+      "ddReviewId": 508,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 608,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 560,
+        "bookingNo": "BK202501160",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501160-XYZ",
+        "vehicleId": 208,
+        "plateNo": "SGX008A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 559,
+        "bookingNo": "BK202501159",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501159-XYZ",
+        "vehicleId": 208,
+        "plateNo": "SGX008A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 209,
+      "vehicleId": 209,
+      "plateNo": "SGX009A",
+      "ddReviewId": 509,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 609,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 580,
+        "bookingNo": "BK202501180",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501180-XYZ",
+        "vehicleId": 209,
+        "plateNo": "SGX009A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 579,
+        "bookingNo": "BK202501179",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501179-XYZ",
+        "vehicleId": 209,
+        "plateNo": "SGX009A"
+      },
+      "vehicleInfo": {
+        "make": "Toyota",
+        "model": "Corolla Altis"
+      },
+      "status": 1
+    },
+    {
+      "id": 210,
+      "vehicleId": 210,
+      "plateNo": "SGX010A",
+      "ddReviewId": 510,
+      "ddReviewDate": "2025-05-18T11:50:03.604921",
+      "ddReviewedBy": "Dimz Aristyo",
+      "assetOwnerId": 610,
+      "reportSubmittedAt": "2025-05-18T11:50:03.604921",
+      "lastReviewed": {
+        "bookingId": 600,
+        "bookingNo": "BK202501200",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501200-XYZ",
+        "vehicleId": 210,
+        "plateNo": "SGX010A"
+      },
+      "beforeLastReviewed": {
+        "bookingId": 599,
+        "bookingNo": "BK202501199",
+        "reportType": "Pick-up",
+        "images": [
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-front-5d0eed96-d890-440d-9b1c-8fd5b064887a.jpeg",
+            "imgSide": "Front",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-driverSide-14ecd228-1d0a-4566-894e-36ef9eeae70b.jpeg",
+            "imgSide": "Back",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-back-32427e03-3f25-4b0c-afa5-537bb84a8206.jpeg",
+            "imgSide": "rightSide",
+            "damageAttribute": "none"
+          },
+          {
+            "imgUrl": "https://getgo2-uat-public.s3-ap-southeast-1.amazonaws.com/issue-image/1386686-activeTrip-passengerSide-00ced794-80c3-41ee-b7cc-0bab6c3f9aa8.jpeg",
+            "imgSide": "leftSide",
+            "damageAttribute": "none"
+          }
+        ],
+        "caseNo": "CASE-202501199-XYZ",
+        "vehicleId": 210,
+        "plateNo": "SGX010A"
       },
       "vehicleInfo": {
         "make": "Toyota",
